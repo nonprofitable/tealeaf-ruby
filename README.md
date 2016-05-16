@@ -1,1 +1,1 @@
-This repository will contain solutions to the exercises for the Tealeaf Academy Ruby textbook. 
+This repository contains solutions to the exercises for the Tealeaf Academy Ruby textbook. 
